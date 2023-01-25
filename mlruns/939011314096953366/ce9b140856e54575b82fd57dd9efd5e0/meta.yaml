@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vedant/anaconda3/envs/my_dev_env/ds-deploy/mlruns/939011314096953366/ce9b140856e54575b82fd57dd9efd5e0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '939011314096953366'
+lifecycle_stage: active
+run_id: ce9b140856e54575b82fd57dd9efd5e0
+run_name: Session Initialized 0e3c
+run_uuid: ce9b140856e54575b82fd57dd9efd5e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674450739979
+status: 1
+tags: []
+user_id: vedant

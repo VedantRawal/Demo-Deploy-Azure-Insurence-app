@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vedant/anaconda3/envs/my_dev_env/ds-deploy/mlruns/939011314096953366/5d937f0132e043b581d07f8235030a8d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '939011314096953366'
+lifecycle_stage: active
+run_id: 5d937f0132e043b581d07f8235030a8d
+run_name: Light Gradient Boosting Machine
+run_uuid: 5d937f0132e043b581d07f8235030a8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674208750158
+status: 1
+tags: []
+user_id: vedant
